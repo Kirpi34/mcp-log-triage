@@ -77,4 +77,4 @@ mcp-log-triage/
 
 Built by [Ertürk Vural](https://www.linkedin.com/in/ertürk-vural-80b381188) — 
 endpoint security specialist transitioning into SOC/threat hunting, 
-studying Windows internals abuse one LNK worm at a time.
+studying Windows internals
