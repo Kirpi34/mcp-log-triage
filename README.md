@@ -67,11 +67,11 @@ mcp-log-triage/
 ## Roadmap
 
 - [x] Project scaffolding and detection engine design
-- [ ] FastMCP server implementation (Tools/Resources/Prompts)
-- [ ] Shannon entropy-based obfuscation detector
-- [ ] GOOTLOADER/CORNFLAKE-style JS loader detection
-- [ ] Tailscale + Gemma 4 31B integration
-- [ ] Flare-VM dynamic analysis companion notes
+- [x] FastMCP server implementation (Tools/Resources/Prompts)
+- [x] Shannon entropy-based obfuscation detector
+- [x] GOOTLOADER/CORNFLAKE-style JS loader detection
+- [x] Tailscale + Gemma 4 31B integration
+- [x] Flare-VM dynamic analysis companion notes
 
 ## Author
 
