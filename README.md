@@ -74,7 +74,5 @@ mcp-log-triage/
 - [x] Flare-VM dynamic analysis companion notes
 
 ## Author
-
-Built by [Ertürk Vural](https://www.linkedin.com/in/ertürk-vural-80b381188) — 
-endpoint security specialist transitioning into SOC/threat hunting, 
-studying Windows internals
+— 
+Built by Ertürk Vural (https://www.linkedin.com/in/ertürk-vural-80b381188) — IT specialist with hands-on experience in Windows administration and endpoint support. This project explores AI-assisted log analysis as a personal interest in detection engineering and Windows internals.
