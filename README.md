@@ -38,7 +38,7 @@ so an AI agent can pre-triage flagged events before a human analyst sees them.
 ## Stack
 
 - Python 3.10+
-- [MCP Python SDK](https://github.com/anthropics/mcp) (`pip install mcp`)
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) (`pip install mcp`)
 - Gemma 4 31B running locally on RTX 4090
 - Tailscale for private network access
 - No external API calls — fully offline
